@@ -1,3 +1,7 @@
+# ErgoDidact mods for QMK
+
+See [here](keyboards/ergodidact/readme.md)
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
